@@ -1,0 +1,14 @@
+# python stuff
+__pycache__
+.ipynb_checkpoints
+survey_utils/__pycache__
+
+
+# emacs
+*~
+*.bak
+
+
+Icon?
+
+
